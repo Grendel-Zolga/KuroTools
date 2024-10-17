@@ -65,7 +65,7 @@
 					"value": "uint"
 				}
 			},
-			"byte0": "ubyte",
+			"category": "ubyte",
 			"byte1": "ubyte",
 			"byte2": "ubyte",
 			"byte3": "ubyte",
