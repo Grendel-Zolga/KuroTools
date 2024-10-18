@@ -1,0 +1,17 @@
+{
+	"FALCOM_SWITCH": {
+		"game": "Ys_X",
+		"schema": {
+			"id": "uint",
+			"unknown": "uint",
+			"item_id": "uint",
+			"materials" : {
+				"size": 6,
+				"schema": {
+					"id": "uint",
+					"amount": "uint"
+				}
+			}			
+		}
+	}
+}
